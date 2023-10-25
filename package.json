@@ -1,0 +1,20 @@
+{
+  "name": "udac-fs-js-node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tressisson/udac-fs-js-node.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tressisson/udac-fs-js-node/issues"
+  },
+  "homepage": "https://github.com/tressisson/udac-fs-js-node#readme"
+}
