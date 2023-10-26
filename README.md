@@ -1,3 +1,6 @@
+Build: npm run build
+
+
 Image Funcationality:
 Run "npm run start" to start the local server
 Enter "http://localhost:3000/images?file_name=flag&width=50&height=50%22" as the url
