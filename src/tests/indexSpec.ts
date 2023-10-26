@@ -1,5 +1,5 @@
 import supertest from "supertest";
-import app from "../../src/index";
+import app from "../index";
 import { resize } from "../utilities/resize";
 
 const test = supertest(app);

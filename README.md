@@ -5,4 +5,4 @@ You will see the resized image
 
 There is one file named flag.jpg
 
-To run the tests: "npm run test"
+Tests are located in src/tests/indexSpec.ts  I have no idea what is going wrong with Jasmine!!!

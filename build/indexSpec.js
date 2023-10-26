@@ -40,8 +40,8 @@ var __importDefault = (this && this.__importDefault) || function (mod) {
 };
 Object.defineProperty(exports, "__esModule", { value: true });
 var supertest_1 = __importDefault(require("supertest"));
-var index_1 = __importDefault(require("../index"));
-var resize_1 = require("../utilities/resize");
+var index_1 = __importDefault(require("../src/index"));
+var resize_1 = require("../src/utilities/resize");
 var test = (0, supertest_1.default)(index_1.default);
 describe("Test the main images endpoint", function () {
     it("Test if image 'flag.jpg' exist", function () { return __awaiter(void 0, void 0, void 0, function () {
