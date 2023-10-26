@@ -15,13 +15,4 @@ app.listen(port, () => {
     console.log(`App listening at http://localhost:${port}`);
 });
 
-
 export default app;
-
-
-
-
-
-
-
-// ./node_modules/.bin/eslint yourfile.js

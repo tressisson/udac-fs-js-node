@@ -16,4 +16,3 @@ app.listen(port, function () {
     console.log("App listening at http://localhost:".concat(port));
 });
 exports.default = app;
-// ./node_modules/.bin/eslint yourfile.js
