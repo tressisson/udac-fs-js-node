@@ -10,7 +10,7 @@ describe("Test the main images endpoint", () => {
   });
 });
 
-describe("Test resize", () => {
+describe("Test resize functionality", () => {
   it("Test image flag is exist", async () => {
     const data = await resize("flag", 50, 50);
     expect(data).toEqual(true);
